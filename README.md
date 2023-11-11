@@ -25,8 +25,3 @@ Responsive Controls: Enjoy smooth and responsive controls that allow for precise
 
 Unity Game Engine: Built with the powerful Unity game engine, SpaceShooter Galaxy delivers high-quality graphics, realistic physics, and a seamless gaming experience across multiple platforms.
 
-🌌 Get ready for an intergalactic journey like never before! Download SpaceShooter Galaxy and embark on a space odyssey filled with excitement, danger, and the thrill of becoming the ultimate space pilot. May the stars align in your favor! 🌠
-
-[Play Now] [Download on the App Store] [Get it on Google Play]
-
-🛸 Note: This game project is open source. Feel free to contribute, report issues, or customize the game to make it your own. Let's build an epic space adventure together! 🌌
